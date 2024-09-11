@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/security/v2",
+    "id": "https://api.qa-inji.mosip.net/.well-known/mock-controller.json",
+    "assertionMethod": [
+        "https://api.qa-inji.mosip.net/.well-known/mock-public-key.json"
+    ]
+}
