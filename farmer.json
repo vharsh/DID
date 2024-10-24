@@ -1,99 +1,26 @@
 {
   "@context": {
     "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
     "schema": "https://schema.org/",
-    "FarmerProfileCredential": {
-      "@id": "https://vharsh.github.io/farmer.json#FarmerProfileCredential",
-      "@type": "VerifiableCredential",
-      "name": {
-        "@id": "schema:name",
-        "@type": "xsd:string",
-        "description": "Full name of the farmer"
-      },
-      "dateOfBirth": {
-        "@id": "schema:birthDate",
-        "@type": "xsd:date",
-        "description": "Date of birth of the farmer"
-      },
-      "highestEducation": {
-        "@id": "schema:educationalCredentialAwarded",
-        "@type": "xsd:string",
-        "description": "Highest level of education achieved by the farmer",
-        "enum": ["High School", "Associate's Degree", "Bachelor's Degree", "Master's Degree", "Doctorate"]
-      },
-      "maritalStatus": {
-        "@id": "schema:maritalStatus",
-        "@type": "xsd:string",
-        "description": "Marital status of the farmer",
-        "enum": ["Single", "Married", "Divorced", "Widowed"]
-      },
-      "typeOfHouse": {
-        "@id": "schema:accommodationType",
-        "@type": "xsd:string",
-        "description": "Type of house the farmer lives in",
-        "enum": ["Farmhouse", "Cottage", "Ranch", "Bungalow"]
-      },
-      "numberOfDependents": {
-        "@id": "schema:numberOfDependents",
-        "@type": "xsd:integer",
-        "description": "Number of dependents the farmer has"
-      },
-      "address": {
-        "@id": "schema:address",
-        "@type": "schema:PostalAddress",
-        "description": "Farmer's address details",
-        "streetAddress": "schema:streetAddress",
-        "addressLocality": "schema:addressLocality",
-        "addressRegion": "schema:addressRegion",
-        "postalCode": "schema:postalCode",
-        "addressCountry": "schema:addressCountry"
-      },
-      "phoneNumber": {
-        "@id": "schema:telephone",
-        "@type": "xsd:string",
-        "description": "Farmer's phone number",
-        "pattern": "^[+]?[0-9]{1,4}?[-.\\s]?([0-9]{1,12})$"
-      },
-      "knowsLanguage": {
-        "@id": "schema:knowsLanguage",
-        "@type": "xsd:string",
-        "description": "Languages the farmer is proficient in"
-      },
-      "works": {
-        "@id": "schema:employmentType",
-        "@type": "xsd:string",
-        "description": "The type of work the farmer is engaged in",
-        "enum": ["Full-time", "Part-time"]
-      },
-      "farmingTypes": {
-        "@id": "schema:farmingTypes",
-        "@type": "xsd:string",
-        "description": "Types of farming practices the farmer engages in",
-        "enum": ["Nomadic", "Pastoral", "Shifting", "Mixed", "Aquaculture", "Organic", "Sedentary"]
-      },
-      "landArea": {
-        "@id": "schema:landArea",
-        "@type": "xsd:decimal",
-        "description": "Total land area in acres"
-      },
-      "landOwnershipType": {
-        "@id": "schema:landOwnershipType",
-        "@type": "xsd:string",
-        "description": "Type of land ownership",
-        "enum": ["Leased", "Self-owned"]
-      },
-      "primaryCropType": {
-        "@id": "schema:primaryCropType",
-        "@type": "xsd:string",
-        "description": "Primary crop type cultivated",
-        "enum": ["Wheat", "Rice", "Corn", "Soybeans", "Cotton", "Vegetables", "Fruits", "Other"]
-      },
-      "secondaryCropType": {
-        "@id": "schema:secondaryCropType",
-        "@type": "xsd:string",
-        "description": "Secondary crop type cultivated, if any",
-        "enum": ["Wheat", "Rice", "Corn", "Soybeans", "Cotton", "Vegetables", "Fruits", "Other", "None"]
-      }
-    }
+    "SchoolCredential": {
+      "@id": "https://vharsh.github.io/DID/FarmerCredential.json#FarmerCredential"
+    },
+    "name": "schema:name",
+    "dateOfBirth": "schema:birthDate",
+    "highestEducation": "schema:Text",
+    "maritalStatus": "schema:Text",
+    "typeOfHouse": "schema:Text",
+    "numberOfDependents": "schema:Number",
+    "address": "schema:address",
+    "phoneNumber": "schema:telephone",
+    "knowsLanguage": "schema:ItemList",
+    "works": "schema:Text",
+    "farmingTypes": "schema:ItemList",
+    "landArea": "schema:Number",
+    "landOwnershipType": "schema:Text",
+    "primaryCropType": "schema:Text",
+    "secondaryCropType": "schema:Text"
   }
 }
