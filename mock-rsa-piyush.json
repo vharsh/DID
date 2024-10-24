@@ -3,5 +3,5 @@
   "type": "RsaVerificationKey2018",
   "id": "https://vharsh.github.io/DID/mock-rsa-piyush.json",
   "controller": "https://vharsh.github.io/DID/mock-rsac-piyush.json",
-  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAydp77b1X+KJzQ8jmNEfH\r\n8PNx6MglgLDA4hvLhpbjbL+74uw7akCS3Hwb2dYfEkGGgt9VRsI/dk7fgNrZU557\r\nhjR8J58QjxMfrkIgg9doqzCYkC1lQYjqcJIiiBpyppJifLoxLcw/vWHxFJ/uL3y0\r\nx2OLpBOfKtcEvdDtM4km3YQCQ31zytGfF2jtaa4OMQpt3vhvD5PCqyu9KjD0eMUG\r\nOd2WaWgsOTiMBedrD17QrFziEpNnK5IIk7yyDFtFOh5f+PzRuJGHFucaEuVpX7f6\r\nX5gkBMDI+L5yq0GJ5/5ztb+FJay2mInWmGOlVCrjtOh1RB8x9iM6HOWPrYQnxsl+\r\nMQIDAQAB\r\n"
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAydp77b1X+KJzQ8jmNEfH\r\n8PNx6MglgLDA4hvLhpbjbL+74uw7akCS3Hwb2dYfEkGGgt9VRsI/dk7fgNrZU557\r\nhjR8J58QjxMfrkIgg9doqzCYkC1lQYjqcJIiiBpyppJifLoxLcw/vWHxFJ/uL3y0\r\nx2OLpBOfKtcEvdDtM4km3YQCQ31zytGfF2jtaa4OMQpt3vhvD5PCqyu9KjD0eMUG\r\nOd2WaWgsOTiMBedrD17QrFziEpNnK5IIk7yyDFtFOh5f+PzRuJGHFucaEuVpX7f6\r\nX5gkBMDI+L5yq0GJ5/5ztb+FJay2mInWmGOlVCrjtOh1RB8x9iM6HOWPrYQnxsl+\r\nMQIDAQAB\r\n-----END PUBLIC KEY-----"
 }
