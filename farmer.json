@@ -17,7 +17,7 @@
     "phoneNumber": "schema:telephone",
     "knowsLanguage": "schema:Text",
     "works": "schema:Text",
-    "farmingTypes": "schema:ItemList",
+    "farmingTypes": "schema:Text",
     "landArea": "schema:Number",
     "landOwnershipType": "schema:Text",
     "primaryCropType": "schema:Text",
