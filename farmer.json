@@ -15,7 +15,7 @@
     "numberOfDependents": "schema:Number",
     "address": "schema:address",
     "phoneNumber": "schema:telephone",
-    "knowsLanguage": "schema:ItemList",
+    "knowsLanguage": "schema:Text",
     "works": "schema:Text",
     "farmingTypes": "schema:ItemList",
     "landArea": "schema:Number",
