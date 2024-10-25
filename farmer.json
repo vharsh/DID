@@ -4,7 +4,7 @@
     "@protected": true,
     "type": "@type",
     "schema": "https://schema.org/",
-    "SchoolCredential": {
+    "FarmerCredential": {
       "@id": "https://vharsh.github.io/DID/FarmerCredential.json#FarmerCredential"
     },
     "name": "schema:name",
@@ -15,7 +15,7 @@
     "numberOfDependents": "schema:Number",
     "address": "schema:address",
     "phoneNumber": "schema:telephone",
-    "knowsLanguage": "schema:Text",
+    "knowsLanguage": "schema:ItemList",
     "works": "schema:Text",
     "farmingTypes": "schema:Text",
     "landArea": "schema:Number",
