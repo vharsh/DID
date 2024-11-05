@@ -1,0 +1,40 @@
+[
+    {
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:vharsh.github.io:DID:did",
+        "alsoKnownAs": [
+            "testUUID",
+            "test@gmail.com"
+        ],
+        "service": [
+            {
+                "id": "IdentityHub",
+                "type": "IdentityHub",
+                "serviceEndpoint": {
+                    "@context": "schema.identity.foundation/hub",
+                    "@type": "UserServiceEndpoint",
+                    "instance": [
+                        "did:test:hub.id"
+                    ]
+                }
+            }
+        ],
+        "verificationMethod": [
+            {
+                "id": "did:web:vharsh.github.io:DID:did#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:vharsh.github.io:DID:did",
+                "publicKeyMultibase": "z6MkEh8dBqGaMVoiJk6bo5xGRxdo9pb8HY3hCe79VCreX2x5JbLhVhjr3Zs4CN6PC9DYQSDEaVMLw4oiJkNL4C"
+            }
+        ],
+        "authentication": [
+            "did:web:vharsh.github.io:DID:did#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:vharsh.github.io:DID:did#key-0"
+        ]
+    }
+]
