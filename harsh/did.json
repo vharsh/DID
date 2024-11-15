@@ -14,7 +14,7 @@
             "type": "Ed25519VerificationKey2020",
             "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
             "controller": "did:web:vharsh.github.io:DID:harsh",
-            "publicKeyMultibase": "z6MkgQxUi1CFR5BfCqE8X499eAeXLmyd4DEj4Vu2BLTZmkMP"
+            "publicKeyMultibase": "z6Mkr1FA8gsBfB1dpWyG6xZVjorhmmKY23Ka5wZbUfj6YmJF"
 
         }
     ],
