@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "FarmerCredential": {
-      "@id": "https://vharsh.github.io/DID/FarmerCredential.json#FarmerCredential"
+      "@id": "https://vharsh.github.io/DID/farmer.json#FarmerCredential"
     },
     "name": "schema:name",
     "dateOfBirth": "schema:birthDate",
