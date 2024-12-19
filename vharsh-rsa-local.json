@@ -3,5 +3,5 @@
   "type": "RsaVerificationKey2018",
   "id": "https://vharsh.github.io/DID/vharsh-rsa-local.json",
   "controller": "https://vharsh.github.io/DID/vharsh-rsac-local.json",
-  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuhr6wrQ7biPL3LIYy+Jj\r\nna/mZ6PIvlyNNW6Xyc5ukG69PCHARNW8mFM7xY97QXWYSZhDe16GN1JXQmLsGSsE\r\nr73+5iipj07lv2TjReJqOAs/L+/H3cpIo1C2S8azQNs/FU7C9GSKn5NH4MLWP/+l\r\nc2b70Psfxl6AnvwdLpGhPZGQdkmdoFUIddmZR/o8fBZ9+5PFlbU9j+LWoGvsJC4O\r\ncfb/bD0okJ/F60Pt1nh5tGIhRDaWvz8ui6lHlwipfVU0QWLFaQUMKEFqpRASRqfV\r\nCxcFp/Uw1lC3iFpbjbpiQvPjdjxP6wm40U1IlR7oPQv3lH6gvqI3Y1Ae23imXMYV\r\nnwIDAQAB\r\n-----END PUBLIC KEY-----"
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl3VqGHYNS75GJg1dr+zt\r\n3Uft3WsW3JX6lnCmolZkJxP2m7rCrlPkL2A5X6VZNslG1kAjhHNw8QO7Ig0KGfZL\r\nmuwIEyFZ7D6Pkgme2pFb36yu9AJnqHYeKlYPALjiTujAs3m5NPbvVldsiVQC5Do8\r\nNiu6hkU/YoFCLnwKuqRmL6zDYPsijxYkipQ0SIOXbVAaBGRORYwi16SU0gw1KQXz\r\n8csEmgODaEniq6QKnMAC1WERHAAfxvj+WtIKYKg+CfIJ39g4o6+KzbbYkffNpROA\r\niGHZtYSRlUtcBJ/T3AIwQKTtkcG/Emgbq/K8VXA87F+8e+Ccom3ZxLDDTNBesuA6\r\nWQIDAQAB\r\n-----END PUBLIC KEY-----"
 }
