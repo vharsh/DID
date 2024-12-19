@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/security/v2",
+    "id": "https://vharsh.github.io/DID/vharsh-rsa-localc.json",
+    "assertionMethod": [
+        "https://vharsh.github.io/DID/vharsh-rsa-local.json"
+    ]
+}

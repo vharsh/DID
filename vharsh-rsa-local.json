@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/security/v2",
+  "type": "RsaVerificationKey2018",
+  "id": "https://vharsh.github.io/DID/vharsh-rsa-local.json",
+  "controller": "https://vharsh.github.io/DID/vharsh-rsac-local.json",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuhr6wrQ7biPL3LIYy+Jj\r\nna/mZ6PIvlyNNW6Xyc5ukG69PCHARNW8mFM7xY97QXWYSZhDe16GN1JXQmLsGSsE\r\nr73+5iipj07lv2TjReJqOAs/L+/H3cpIo1C2S8azQNs/FU7C9GSKn5NH4MLWP/+l\r\nc2b70Psfxl6AnvwdLpGhPZGQdkmdoFUIddmZR/o8fBZ9+5PFlbU9j+LWoGvsJC4O\r\ncfb/bD0okJ/F60Pt1nh5tGIhRDaWvz8ui6lHlwipfVU0QWLFaQUMKEFqpRASRqfV\r\nCxcFp/Uw1lC3iFpbjbpiQvPjdjxP6wm40U1IlR7oPQv3lH6gvqI3Y1Ae23imXMYV\r\nnwIDAQAB\r\n-----END PUBLIC KEY-----\r\n"
+}
