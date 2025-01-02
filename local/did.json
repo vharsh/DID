@@ -11,7 +11,7 @@
     "verificationMethod": [
         {
             "id": "did:web:vharsh.github.io:DID:local#key-0",
-            "type": "Ed25519VerificationKey2020",
+            "type": "Ed25519VerificationKey2018",
             "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
             "controller": "did:web:vharsh.github.io:DID:local",
             "publicKeyMultibase": "z6MkjFmoj8N6bB3kEDgLVSaw2qtmip96JFDjwzKDRTmAZf7n"
