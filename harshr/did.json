@@ -1,0 +1,27 @@
+{
+  "assertionMethod": [
+    "did:web:vharsh.github.io:DID:harshr#key-0"
+  ],
+  "service": [],
+  "id": "did:web:vharsh.github.io:DID:harshr",
+  "verificationMethod": [
+    {
+      "controller": "did:web:vharsh.github.io:DID:harshr",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "r4Czto0QnRTsdAKvYh9GZRajF8RWXAC1UCPu5QoCxOkUwiH2xAxdabWn3JjOw37G8rpd_KDAujbN0t7c7aV8dj-U7wgF9FQ0aGKjf4Wby2K2xSGC1gCplEDZB1Kxdn6WaTXcVnlp7wPq6p4dbSWZvLddTCdSmAZnOEvooTYPimboDJ4cR91_4mpWRbDqbdOFcISalLfzmfXtHx_qYBY6sQc9CNIjKfvSKVE2mSLylGrqbtHhl0ZXBbfAqMjQjLIOdIY05abaGn2qovI12BcR1EfcVlBaUMZ4r7UhmswHyf8r1Dqj1vAwFXc28Hau9O9IRpQqkl2CQtxCU8k2_7xjgQ"
+      },
+      "id": "did:web:vharsh.github.io:DID:harshr#key-0",
+      "type": "JsonWebKey2020",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:vharsh.github.io:DID:harshr#key-0"
+  ]
+}
