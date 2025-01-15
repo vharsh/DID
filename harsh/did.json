@@ -6,7 +6,7 @@
   "id": "did:web:vharsh.github.io:DID:harsh",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkuY7TsbhRsdrhHWWUswDVddNQdiPo7EzPNdQW8S8Ghd8d",
+      "publicKeyMultibase": "z6MknD5TeBXQfZUh7GximbRdf2fV2bHCbPrRpt8s9e17W6di",
       "controller": "did:web:vharsh.github.io:DID:harsh",
       "id": "did:web:vharsh.github.io:DID:harsh#key-0",
       "type": "Ed25519VerificationKey2020",
