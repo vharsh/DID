@@ -9,7 +9,7 @@
     ],
     "service": [],
     "verificationMethod": [{
-  "@context": ["https://w3id.org/security/v1"],
+  "@context": "https://w3id.org/security/v1",
   "id": "did:web:vharsh.github.io:DID:echarsh#keys-0",
   "type": "EcdsaSecp256k1VerificationKey2019",
   "controller": "did:web:vharsh.github.io:DID:echarsh",
