@@ -14,7 +14,7 @@
   "type": "EcdsaSecp256k1VerificationKey2019",
   "controller": "did:web:vharsh.github.io:DID:echarsh",
   "expires": "2026-02-08T16:02:20Z",
-  "publicKeyHex" : "3056301006072a8648ce3d020106052b8104000a0342000449344cafc04ddd3a2a198590131126e7e9a3ca24aaabd886b3ad34fb850c8996c0c0b68f261803550fcf94e3787464480655eb2ebf0b9a3208fb2e756b4540f3"
+  "publicKeyHex" : "0349344cafc04ddd3a2a198590131126e7e9a3ca24aaabd886b3ad34fb850c8996"
 }
     ],
       "authentication": [
