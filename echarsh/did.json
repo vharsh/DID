@@ -1,26 +1,28 @@
 {
-    "@context": [
-        "https://www.w3.org/ns/did/v1"
-    ],
-    "id": "did:web:vharsh.github.io:DID:echarsh",
-    "alsoKnownAs": [
-        "testUUID",
-        "test@gmail.com"
-    ],
-    "service": [],
-    "verificationMethod": [{
-  "@context": "https://w3id.org/security/v1",
-  "id": "did:web:vharsh.github.io:DID:echarsh#key-0",
-  "type": "EcdsaSecp256k1VerificationKey2019",
-  "controller": "did:web:vharsh.github.io:DID:echarsh",
-  "expires": "2026-02-08T16:02:20Z",
-  "publicKeyHex" : "0349344cafc04ddd3a2a198590131126e7e9a3ca24aaabd886b3ad34fb850c8996"
-}
-    ],
-      "authentication": [
-        "did:web:vharsh.github.io:DID:echarsh#key-0"
-    ],
-    "assertionMethod": [
-        "did:web:vharsh.github.io:DID:echarsh#key-0"
-    ]
+  "assertionMethod": [
+    "did:web:vharsh.github.io:DID:echarsh#key-0"
+  ],
+  "service": [],
+  "id": "did:web:vharsh.github.io:DID:echarsh",
+  "verificationMethod": [
+    {
+      "controller": "did:web:vharsh.github.io:DID:echarsh",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "secp256k1",
+        "x": "STRMr8BN3ToqGYWQExEm5-mjyiSqq9iGs600-4UMiZY",
+        "y": "wMC2jyYYA1UPz5TjeHRkSAZV6y6_C5oyCPsudWtFQPM"
+      },
+      "id": "did:web:vharsh.github.io:DID:echarsh#key-0",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "@context": "https://w3id.org/security/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:vharsh.github.io:DID:echarsh#key-0"
+  ]
 }
