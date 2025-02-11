@@ -15,8 +15,8 @@
         "result": "schema:Text",
         "gender": "schema:gender",
         "dateOfBirth": "schema:birthDate",
-        "startDate": "schema:",
-        "completionDate": "schema:",
+        "startDate": "schema:date",
+        "completionDate": "schema:date",
         "face": "schema:Text"
     }
 }
