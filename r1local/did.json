@@ -6,7 +6,7 @@
   "id": "did:web:vharsh.github.io:DID:r1local",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "zx4zp3tigihHHW2zG4ymEQu72n6whpxZTBNJ7tbAkL8Rt4xtR1JxFjHHVofhXZEoetKNNFcp7YxhhASRrYXk1msD6CBBG3oSot7UqH1uAg59GsC9MRWmTiK2vnBasaab",
+      "publicKeyMultibase": "zaSq9DsNNvGhYxYyqA9wd2eduEAZ5AXWgJTbTGvptEGoDyrED61RBjV38Paa9wvoQm7sxjFzffAZoYpvkLfyqx33bNdwU7VHz1sygF46Fe3pNn3ZeLbYMupabCaB1",
       "controller": "did:web:vharsh.github.io:DID:r1local",
       "id": "did:web:vharsh.github.io:DID:r1local#key-0",
       "type": "EcdsaSecp256r1VerificationKey2019",
