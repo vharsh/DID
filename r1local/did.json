@@ -6,8 +6,13 @@
   "id": "did:web:vharsh.github.io:DID:r1local",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "zDnaehKu2hNcmLBhd5iNkh3v6Q4ncq75fT4EXKMtietgzR1bZ",
       "controller": "did:web:vharsh.github.io:DID:r1local",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "Z2a6bXxe5MlorJuJCupfDeiuL_B9xcmM5ZA3PP5j-eY",
+        "y": "lr6BNS9wQ3gMXuMBme3JhQvwYTcS6l93Zl0vuiODayA"
+      },
       "id": "did:web:vharsh.github.io:DID:r1local#key-0",
       "type": "EcdsaSecp256r1VerificationKey2019",
       "@context": "https://w3id.org/security/suites/ecdsa-2019/v1"
